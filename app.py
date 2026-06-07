@@ -352,9 +352,9 @@ st.markdown("""
 <div class="masthead">
     <div class="masthead-overline">📰 Machine Learning · NLP</div>
     <h1 class="masthead-title">BBC News<br>Classifier</h1>
-    <p class="masthead-subtitle">
-    Paste any news article and the model will instantly identify<br>
-    which of the five BBC editorial desks it belongs to.
+  <p class="masthead-subtitle">
+    Paste any news article and instantly discover<br>
+    which BBC category it belongs to.
 </p>
     <div class="masthead-rule"></div>
 </div>
