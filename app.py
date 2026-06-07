@@ -500,6 +500,5 @@ st.markdown("""
 <div class="app-footer">
     Built with <strong>Python</strong> · <strong>Scikit-learn</strong> · <strong>NLTK</strong> · <strong>Streamlit</strong>
     <br>
-    KNN classifier trained on the BBC News dataset &nbsp;·&nbsp; TF-IDF text vectorisation
 </div>
 """, unsafe_allow_html=True)
