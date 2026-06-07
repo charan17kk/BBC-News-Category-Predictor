@@ -119,9 +119,10 @@ html, body, [class*="css"] {
     font-size: 1.0rem;
     font-weight: 300;
     color: var(--muted);
-    max-width: 520px;
+    max-width: 700px;
     margin: 0 auto;
     line-height: 1.6;
+    text-align: center;
 }
 .masthead-rule {
     width: 40px;
@@ -352,9 +353,8 @@ st.markdown("""
 <div class="masthead">
     <div class="masthead-overline">📰 Machine Learning · NLP</div>
     <h1 class="masthead-title">BBC News<br>Classifier</h1>
-  <p class="masthead-subtitle">
-    Paste any news article and instantly discover<br>
-    which BBC category it belongs to.
+ <p class="masthead-subtitle">
+            Paste any news article and instantly discover which BBC category it belongs to.
 </p>
     <div class="masthead-rule"></div>
 </div>
