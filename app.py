@@ -366,7 +366,6 @@ today = datetime.date.today().strftime("%A, %d %B %Y")
 st.markdown(f"""
 <div class="edition-bar">
     <span>{today}</span>
-    <span>KNN · TF-IDF · 5 categories</span>
     <span>NLP Classifier v1.0</span>
 </div>
 """, unsafe_allow_html=True)
